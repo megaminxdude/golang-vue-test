@@ -6,7 +6,7 @@ cd ...\golang-vue-test
 go run server.go
 ```
 
-## Open go server in browser 
+## Open in browser 
 ```
 http://localhost:3000/
 ```
